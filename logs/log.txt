@@ -1,0 +1,6 @@
+2019-04-28 20:12:43 ERROR Dao:125 - org.postgresql.util.PSQLException: ERROR: permission denied for table users_accounts
+2019-04-28 20:22:44 ERROR Dao:125 - org.postgresql.util.PSQLException: No results were returned by the query.
+2019-04-28 20:27:24 ERROR Dao:201 - org.postgresql.util.PSQLException: No results were returned by the query.
+2019-04-28 20:44:12 ERROR Dao:125 - org.postgresql.util.PSQLException: ERROR: permission denied for table users_accounts
+2019-04-28 20:47:16 ERROR Dao:125 - org.postgresql.util.PSQLException: ERROR: permission denied for table users_accounts
+2019-04-29 08:59:25 ERROR Dao:201 - org.postgresql.util.PSQLException: No results were returned by the query.
